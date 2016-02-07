@@ -1,3 +1,3 @@
 # FizzBuzz 
 
-Excercise to learn about case statements.
+Exercise to learn about case statements.
